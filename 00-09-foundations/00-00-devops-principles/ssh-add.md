@@ -4,7 +4,7 @@ ssh -T git@github.com
 ``` 
 to check if you’re also authenticated within the devpod.
 
-If this is not the case, then run:
+If this is not the case, then exit the devcontainer and then run:
 ```
 ssh-add —apple-load-keychain
 ```
