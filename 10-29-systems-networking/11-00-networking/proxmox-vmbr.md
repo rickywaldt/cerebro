@@ -1,0 +1,1 @@
+A vmbr (virtual machine bridge) in Proxmox is a virtual network switch. It's a bridge that connects VM's and containers in Proxmox to the physical network. You have a server on which Proxmox is installed and running. That server connects via ethernet to the physical network (router) and gets access to the internet and other devices on the local network.
